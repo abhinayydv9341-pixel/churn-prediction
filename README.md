@@ -30,7 +30,7 @@ streamlit run app.py               # interactive predictions
 ```
 
 ## Results
-On the generated dataset, XGBoost reaches ROC-AUC ≈ 0.87. Top drivers are tenure,
+On the generated dataset, XGBoost reaches ROC-AUC ≈ 0.861. Top drivers are tenure,
 monthly charges, and contract type. Swap in a real dataset by replacing
 `data/customers.csv` (same columns) — no code changes needed.
 
